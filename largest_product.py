@@ -34,4 +34,3 @@ def answer(xs):
     if total < 0 and zero == True:
         return str(0)
     return str(total)
-print str(answer([-43]))
