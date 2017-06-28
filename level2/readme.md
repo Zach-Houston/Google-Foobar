@@ -9,4 +9,4 @@ The program mathematically computes it instead of creating an actual tree struct
 ## largest_product.py
 
 This program is fairly self explanatory, it creates the largest product in a given list of numbers.
-This includes negative numbers as well.
+This includes negative numbers and zeroes as well.
