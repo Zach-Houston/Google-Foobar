@@ -14,4 +14,4 @@ Trying to get the bombs to equal 7 4:
 - Generation 4: 3 4
 - Generation 5: 7 4
 
-Therefore, the program will return 5 because it takes 4 generations to do it.  
+Therefore, the program will return 4 because it takes 4 generations to do it.  
