@@ -2,7 +2,7 @@
 
 ## precise_bomb.py
 
-This program is pretty rough and could obviously be further optimized, but it was good enough for Google.
+This program is pretty rough and could obviously be further optimized (especially just by simplifying some redundant if statements for clarity), but it was good enough for Google.
 This program was meant for the following situation:
 You start with 2 types of bombs.  You start with one of each.  Each generation, you can add one type's total to another type.  Example:
 
